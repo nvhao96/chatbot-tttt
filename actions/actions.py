@@ -70,7 +70,7 @@ class ValidateTeaForm(FormValidationAction):
         ALLOWED_TEA_TYPES = []
         for i in menu:
             ALLOWED_TEA_TYPES.append(i[1])
-
+        print(ALLOWED_TEA_TYPES)
         if slot_value.lower() not in ALLOWED_TEA_TYPES:
             dispatcher.utter_message(text=f"Xin lỗi quý khách, quán mình chưa phục vụ {slot_value} ạ")
             return {"tea_type": None}

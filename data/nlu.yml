@@ -240,6 +240,7 @@ nlu:
       - cho tui [trà ô long](tea_type) nha
       - lấy cho mình [một](tea_quan) [trà lipton](tea_type) nha
       - cho anh [hai](tea_quan) [trà sữa](tea_type) nha
+      - bán cho mình [một](tea_quan) [trà chanh](tea_type)
   - intent: inform
     examples: |
       - [trà đào cam sả](tea_type)

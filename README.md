@@ -17,7 +17,7 @@ Open your terminal
 Clone this repo
 
 ```bash
-git clone https://github.com/fridaytd/order_tea_chatbot.git
+git clone https://github.com/nvhao96/chatbot-tttt.git
 ```
 Navigate to the project directory
 

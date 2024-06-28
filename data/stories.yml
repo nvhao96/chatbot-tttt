@@ -58,7 +58,7 @@ stories:
       - slot_was_set:
           - user_name: null
       - slot_was_set:
-          - user_name: Đăng
+          - user_name: Hào
       - slot_was_set:
           - requested_slot: address
       - slot_was_set:
